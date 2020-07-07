@@ -25,7 +25,7 @@
 git clone https://github.com/...
 docker-compose up -d
 ```
-Использование:
+Использование и настройки:
 * Поиск: /api/v1/search?authors_count=1
 * Docker/api.env - добавить email учетку:
 ```
